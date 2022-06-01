@@ -1,4 +1,6 @@
-# dog_classifier
+# Doggy Classifier
+
+Created while following along with [Dataquest's tutorial](https://www.youtube.com/watch?v=9xcky8jXQAM&list=PL6UJrXaOPPcEesMFPaieQJwnBvKiRH2tT&index=6) on Tensorflow and Keras.
 
 ## Setup
 
