@@ -1,4 +1,10 @@
 # dog_classifier
+
+## Setup
+
+You will also need to have a GPU on your machine and configured. To set things up, you'll need to install [GPU support for tensorflow](https://www.tensorflow.org/install/gpu). Or use Google's Colaboratory!
+
+## Data
 Created with tensorflow and keras
 
 You'll need to download the dog image dataset to follow this project:
